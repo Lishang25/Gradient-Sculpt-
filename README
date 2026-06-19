@@ -50,7 +50,7 @@ python main.py "Your initial query here"
 If no initial query is provided, the script will prompt you to enter queries interactively. Type your question and press Enter to get a response. Type `quit`, `q`, or exit to `exit` the program.
 
 ### Persistence
-- Set the `PERSIST` variable to `True` in the script to enable saving the vector store index to disk for reuse in future sessions.
+- Set the `PERSIST` variable to `True` in the script to enable saving the vector store index to disk for reuse in future sessions
 - The index will be saved in a directory named `persist/`.
 
 ## Example
