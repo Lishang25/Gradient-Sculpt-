@@ -4,9 +4,9 @@ This directory contains a Python script that implements a conversational retriev
 
 ## Features
 
-- Load documents from a specified directory.
-- Create and persist a vector store index for efficient querying.
-- Engage in conversational interactions, maintaining chat history.
+- Load documents from a specified directory
+- Create and persist a vector store index for efficient querying
+- Engage in conversational interactions, maintaining chat history
 - Easily exit the program.
 
 ## Requirements
