@@ -1,4 +1,4 @@
-# Conversational Retrieval with LangChain and OpenAII
+# Conversational Retrieval with LangChain and OpenAI
 
 This directory contains a Python script that implements a conversational retrieval system using LangChain and OpenAI's API. The script allows users to query a collection of documents and receive responses based on the retrieved information.
 
